@@ -1,0 +1,60 @@
+<questions>
+    <task>
+        <question>Question 1: Select all cities that are capitals of states:</question>
+        <imageURL>https://vehamira.ru/wp-content/uploads/2021/10/Mos_oct-300x200.jpg</imageURL>
+        <answersType>CheckBox</answersType>
+        <answers>
+            <answer>Moscow</answer>
+            <answer>Shanghai</answer>
+            <answer>Marseille</answer>
+            <answer>Rome</answer>
+            <answer>Prague</answer>
+            <answer>Oslo</answer>
+        </answers>
+        <correctAnswers>
+            <correctAnswer>true</correctAnswer>
+            <correctAnswer>false</correctAnswer>
+            <correctAnswer>false</correctAnswer>
+            <correctAnswer>true</correctAnswer>
+            <correctAnswer>true</correctAnswer>
+            <correctAnswer>true</correctAnswer>
+        </correctAnswers>
+    </task>
+    <task>
+        <question>Question 2: The long jump world record is:</question>
+        <imageURL/>
+        <answersType>RadioButton</answersType>
+        <answers>
+            <answer>3.33m</answer>
+            <answer>3.73m</answer>
+            <answer>2.89m</answer>
+            <answer>2.05m</answer>
+        </answers>
+        <correctAnswers>
+            <correctAnswer>false</correctAnswer>
+            <correctAnswer>true</correctAnswer>
+            <correctAnswer>false</correctAnswer>
+            <correctAnswer>false</correctAnswer>
+        </correctAnswers>
+    </task>
+    <task>
+        <question>
+            Question 3: Continue the phrase: "citius altius..."
+            At the end of the phrase, place a combobox with options for values:
+        </question>
+        <imageURL/>
+        <answersType>ComboBox</answersType>
+        <answers>
+            <answer>ergo</answer>
+            <answer>est</answer>
+            <answer>fortius</answer>
+            <answer>cogito</answer>
+        </answers>
+        <correctAnswers>
+            <correctAnswer>false</correctAnswer>
+            <correctAnswer>false</correctAnswer>
+            <correctAnswer>true</correctAnswer>
+            <correctAnswer>false</correctAnswer>
+        </correctAnswers>
+    </task>
+</questions>
